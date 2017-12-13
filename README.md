@@ -1,3 +1,4 @@
 # curso0_1
-Borrar
+##Borrar
 La buena vida
+**Larga vida a Notepad plus plus**
