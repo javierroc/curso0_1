@@ -10,5 +10,5 @@ Ahora vamos con la lista
 2. Número 2
 3. Número 3
 
-![GitHub Logo](\Users\J\Pictures\Saved Pictures\tool-wallpaper.jpg)
+![GitHub Logo](C:\Users\J\Pictures\Saved Pictures\tool-wallpaper.jpg)
 Format: ![Alt Text](url)
